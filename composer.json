@@ -1,5 +1,5 @@
 {
-    "name": "lovante/framework",
+    "name": "eddyenet/framework",
     "description": "Ultra-fast, modern PHP framework",
     "type": "library",
     "license": "MIT",
@@ -27,4 +27,5 @@
     },
     "minimum-stability": "stable",
     "prefer-stable": true
+
 }
